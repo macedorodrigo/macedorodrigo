@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou iniciando o módulo de back-end
 - 👯 Estou procurando colaborar em projetos front-end
-- 💬 Pergunte-me sobre gastronomia, gatos, animes, livros de ficção ou jogos
+- 💬 Pergunte-me sobre gastronomia, gato, animes, livros de ficção ou jogos
 - 📫 Como chegar até mim: romaco1694@gmail.com
 - 😄 Pronome: ele/dele
 
