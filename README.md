@@ -36,6 +36,7 @@ Estatísticas do GitHub:
   <img alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img alt="html5" src="https://img.shields.io/badge/Trybe-FFC700?style=for-the-badge">
-</div>
   <img alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+</div>
+
 <br>
