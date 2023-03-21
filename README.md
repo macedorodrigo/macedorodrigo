@@ -10,11 +10,11 @@
 
 Estatísticas do GitHub: 
 
-![Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=macedorodrigo&show_icons=true&theme=radical)
+![Macedo GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=macedorodrigo&show_icons=true&theme=radical)
 
  Principais Linguagens: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedorodrigo&layout=compact_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=macedorodrigo&layout=compact_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que utilizo no meu dia a dia
